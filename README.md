@@ -21,5 +21,5 @@
 - Canny w/ Hough Line Transform [best one, under builtin, option 5]
 
 ### Example
-[!alt text](https://github.com/JimPalomo/lane-detection/blob/main/assets/sample-1.png)
-[!alt text](https://github.com/JimPalomo/lane-detection/blob/main/assets/sample-2.png)
+![alt text](https://github.com/JimPalomo/lane-detection/blob/main/assets/sample-1.png)
+![alt text](https://github.com/JimPalomo/lane-detection/blob/main/assets/sample-2.png)
